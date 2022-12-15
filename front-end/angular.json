@@ -62,7 +62,7 @@
               "namedChunks": true,
               "outputHashing": "none",
               "watch": true,
-              "deployUrl": "build/"
+              "baseHref": "build/"
             }
           },
           "defaultConfiguration": "production"
